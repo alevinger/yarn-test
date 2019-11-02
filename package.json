@@ -10,6 +10,6 @@
   },
   "dependencies": {
     "deep-freeze": "^0.0.1",
-    "yarn": "^1.16.0"
+    "yarn": "^1.17.3"
   }
 }
