@@ -6,7 +6,7 @@
     "test": "ava"
   },
   "devDependencies": {
-    "ava": "^0.25.0"
+    "ava": "^5.1.0"
   },
   "dependencies": {
     "deep-freeze": "^0.0.1",
